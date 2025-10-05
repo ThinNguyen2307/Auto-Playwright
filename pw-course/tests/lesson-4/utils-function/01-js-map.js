@@ -28,3 +28,4 @@ console.log(newStr);
 let square = numbers.map(num => num * 2);
 
 console.log(square);
+
